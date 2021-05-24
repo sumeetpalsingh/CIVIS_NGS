@@ -25,6 +25,8 @@ The course utilizes the following online tools:
 2. [VolcaNoseR](https://huygens.science.uva.nl/VolcaNoseR/)
 3. [Galaxy](https://usegalaxy.eu/)
 
+And we will attempt to analyze the data from [Arunachalam et al., *Science* 2020. DOI: 10.1126/science.abc6261
+](https://science.sciencemag.org/content/369/6508/1210). The data is shared on [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152418)
 
 For any issues, you can post them here on [Github](https://github.com/sumeetpalsingh/CIVIS_NGS/issues) or email me at sumeet.pal.singh[at]ulb.be
 
