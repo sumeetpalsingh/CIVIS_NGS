@@ -1,1 +1,1 @@
-# CIVIS_NGS
+# Hands-on course on RNA-Seq Analysis
