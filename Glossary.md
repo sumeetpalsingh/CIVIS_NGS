@@ -6,7 +6,7 @@
 
 **[GEO](https://www.ncbi.nlm.nih.gov/geo/)**: Gene Expression Omnibus, a repository of publicly available datasets.
 
-**[GO]**: Gene ontology. A analysis tools that attempts to provide functional characterization for a set of genes based on the exisiting information about their biological role. The functional information can help understand the pathways that change upon treatment. 
+**GO**: Gene ontology. A analysis tools that attempts to provide functional characterization for a set of genes based on the exisiting information about their biological role. The functional information can help understand the pathways that change upon treatment. 
 
 **RPKM**: Reads per kilobase (kb) per million. A method for normalization of RNA-Seq data that takes into account the size of the gene and the depth of the library.
 
