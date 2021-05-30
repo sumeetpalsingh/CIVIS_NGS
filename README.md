@@ -22,7 +22,7 @@ The course requires only two tools:
 
 The course utilizes the following online tools:
 1. [iDEP](http://bioinformatics.sdstate.edu/idep/)
-2. [VolcaNoseR](https://huygens.science.uva.nl/VolcaNoseR/)
+2. [VolcaNoseR](https://goedhart.shinyapps.io/VolcaNoseR/)
 3. [Galaxy](https://usegalaxy.eu/)
 
 And we will attempt to analyze the data from [Arunachalam et al., *Science* 2020. DOI: 10.1126/science.abc6261](https://science.sciencemag.org/content/369/6508/1210). The data is shared on [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152418).
